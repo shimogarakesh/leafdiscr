@@ -28,7 +28,7 @@
 if (!require("devtools")) install.packages("devtools")
 
 # Install leafdiscr
-devtools::install_github("yourusername/leafdiscr")
+devtools::install_github("shimogarakesh/leafdiscr")
 ```
 
 ### Bioconductor Dependency
