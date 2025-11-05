@@ -1,0 +1,37 @@
+Package: leafdiscr
+Type: Package
+Title: Automated Leaf Disc Color Analysis for Thermal Tolerance Research
+Version: 0.1.0
+Authors@R: c(
+    person("Rakesh", "Tiwari", email = "shimogarakesh@gmail.com", role = c("aut", "cre"))
+    )
+Description: Provides tools for automated extraction and analysis of RGB color data 
+    from scanned leaf disc images. The package implements circular disc masking, 
+    automatic background filtering, and quantification of green vs. brown color 
+    proportions. Designed for thermal tolerance experiments where leaf discs are 
+    subjected to different temperature treatments and color changes indicate stress 
+    responses. Supports bulk processing of multiple scans with automatic metadata 
+    extraction from filenames. Created by Rakesh Tiwari at the Centre for Climate 
+    Change Research, with support for advanced photosynthesis thermal tolerance studies.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Depends: 
+    R (>= 4.0.0)
+Imports:
+    magick (>= 2.7.0),
+    dplyr (>= 1.0.0),
+    tidyr (>= 1.2.0),
+    purrr (>= 0.3.0),
+    readr (>= 2.0.0),
+    tibble (>= 3.0.0),
+    EBImage (>= 4.30.0),
+    caTools (>= 1.18.0)
+Suggests:
+    ggplot2 (>= 3.3.0),
+    testthat (>= 3.0.0)
+biocViews:
+URL: https://github.com/yourusername/leafdiscr
+BugReports: https://github.com/yourusername/leafdiscr/issues
+Maintainer: Rakesh Tiwari <shimogarakesh@gmail.com>
