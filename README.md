@@ -1,7 +1,7 @@
 # leafdiscr <img src="man/figures/logo.png" align="right" height="139" />
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/yourusername/leafdiscr/workflows/R-CMD-check/badge.svg)](https://github.com/yourusername/leafdiscr/actions)
+[![R-CMD-check](https://github.com/shimogarakesh/leafdiscr/workflows/R-CMD-check/badge.svg)](https://github.com/shimogarakesh/leafdiscr/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <!-- badges: end -->
 
@@ -168,9 +168,9 @@ Only pixels within a circular region (default 500px diameter) centered on each m
 If you use `leafdiscr` in your research, please cite:
 
 ```
-[Your Name] (2025). leafdiscr: Automated Leaf Disc Color Analysis for Thermal 
+[Rakesh Tiwari] (2025). leafdiscr: Automated Leaf Disc Color Analysis for Thermal 
 Tolerance Research. R package version 0.1.0. 
-https://github.com/yourusername/leafdiscr
+https://github.com/shimogarakesh/leafdiscr
 ```
 
 ## Contributing
@@ -184,5 +184,5 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## Support
 
 For questions or issues:
-- Open an issue: https://github.com/yourusername/leafdiscr/issues
-- Email: your.email@example.com
+- Open an issue: https://github.com/shimogarakesh/leafdiscr/issues
+- Email: shimogarakesh@gmail.com
