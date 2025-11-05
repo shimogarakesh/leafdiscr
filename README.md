@@ -168,7 +168,7 @@ Only pixels within a circular region (default 500px diameter) centered on each m
 If you use `leafdiscr` in your research, please cite:
 
 ```
-[Rakesh Tiwari] (2025). leafdiscr: Automated Leaf Disc Color Analysis for Thermal 
+Rakesh Tiwari (2025). leafdiscr: Automated Leaf Disc Color Analysis for Thermal 
 Tolerance Research. R package version 0.1.0. 
 https://github.com/shimogarakesh/leafdiscr
 ```
